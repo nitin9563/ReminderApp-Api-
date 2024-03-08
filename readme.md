@@ -1,7 +1,7 @@
 # This is an API for reminder app
 
 
-end points for data are : 
+<h3>End-points for data are: </h3> 
 1. <b>GET</b> /info/ -: <br>
 
         Send this end-point with get request to get all the saved reminders
